@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first{
+    height: 100px;
+}
+.secend{
+    height: 500px ;
+}
+.secend2{
+    height: 500px ;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.third{
+    height: 100px;
+}
+.secend3{
+    height: 200px ;
+}
+/* .secend4{
+    height: 200px ;
+}
+.secend5{
+    height: 200px ;
+} */
